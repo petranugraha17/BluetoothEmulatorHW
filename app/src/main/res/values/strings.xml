@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bluetooth emulator</string>
+    <string name="Button">進入</string>
+    <string name="進入">進入</string>
+    <string name="roll">roll</string>
+    <string name="詳細">詳細</string>
+    <string name="開啟or關閉掃描">"開啟or關閉掃描 "</string>
+    <string name="詳細資訊頁">詳細資訊頁</string>
+</resources>
